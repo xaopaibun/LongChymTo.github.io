@@ -425,12 +425,7 @@ span{
    
     
 }
-.NoiDungPhai .KhoiSanPham .KhoiNho:hover{
-    /* border: 2px solid gray;
-    box-sizing: border-box; */
-    box-shadow: 1px 1px 3px 3px #100e0e;
 
-}
 
 .KhoiNho .KhoiAnh{
     overflow: hidden;
