@@ -399,12 +399,12 @@ het top header */
     
 }
 .NoiDungPhai > a {
-    color:black;
+    color: #FF8000;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight:  bold;
+    font-weight: bold;
     display: block;
-    border-bottom: 1px solid gray ;
+    border-bottom: 1px solid #FF8000;
     font-size: 18px;
     padding-bottom: 10px;
 }
